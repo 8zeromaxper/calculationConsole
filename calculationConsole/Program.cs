@@ -5,7 +5,7 @@
         while (true)
         {
             Console.Clear();
-            Console.WriteLine(" Soo dhawow Sh. Mohamed Ahmed !");
+            Console.WriteLine(" Soo dhawow Sheik. Mohamed Ahmed !");
             Console.WriteLine(" ... Tani waa xisaabinta ugu fudud ee C# ...");
             Console.WriteLine("1. Ku-dar");
             Console.WriteLine("2. Ka-jar");
